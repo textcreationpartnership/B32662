@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The abstract of the case of Richard Reed the younger, esquire, respondent to the appeal of Walter Williams esq; and Elizabeth his wife appealants.</title>
+            <author>Williams, Walter.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B32662</idno><idno type="EEBO-CITATION">99887470</idno>
+  <idno type="VID">190422</idno>
+  <idno type="EEBO-PROQUEST">2240885133</idno>
+  
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[4]</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="PROQUEST">ocm99887470</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887470e"/>
+            <note>(EEBO-TCP ; phase 2, no. B32662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190422)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The abstract of the case of Richard Reed the younger, esquire, respondent to the appeal of Walter Williams esq; and Elizabeth his wife appealants.</title>
+                  <author>Williams, Walter.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from the British Library.</note>
+                  <note>"For the respondent." printed in the left margin.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Reed, Richard --  fl. 1685. --  Early works to 1800.</term>
+               <term type="personal_name">Williams, Elizabeth --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:190422:1"/>
+            <head>THE ABSTRACT OF,<note place="margin">For the Respon<g ref="char:EOLhyphen"/>dent.</note> THE CASE OF <hi>Richard Reed</hi> the Younger, Esquire, Respon<g ref="char:EOLhyphen"/>dent to the Appeal of <hi>Walter Williams</hi> Esq; and <hi>Elizabeth</hi> his Wife Appealants.</head>
+            <p>
+               <hi>JOhn Reed</hi> Esquire, seised of the Meadows in question of the then value of 100 l. <hi>per annum,</hi> demiseth them to <hi>Katharine Reed</hi> his Sister for 99 years, and after conveys the Inheritance thereof to <hi>Edward Reed</hi> his Brother.</p>
+            <p>
+               <hi>Katharine</hi> gave this Lease by her Will to <hi>Richard Reed</hi> the Elder (after some Legacies for lives which are all dead) in trust for the GE<g ref="char:EOLhyphen"/>NERAL HEIR, which GENERAL HEIR falls out to be <hi>William Reed,</hi> Son to <hi>Elinor Reed,</hi> Daughter to the said <hi>John Reed,</hi> which <hi>Elinor</hi> was the Wife of <hi>Richard Reed</hi> the Younger.</p>
+            <p>This Lease is questioned by <hi>Edward Reed</hi> as a Mortgage for 1000 l. and <hi>Anno</hi> 1639. is Decreed to be a Mortgage.</p>
+            <p>
+               <hi>Richard Reed</hi> the Younger, to preserve this Lease to his Family, buyes in this Decree for 250 l, and so quiets the Estate.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Richard Reed</hi> the Elder, in pursuance of the Will of <hi>Katharine,</hi>assigns the Lease in Trust for <hi>William</hi> the GENERAL HEIR, <hi>William</hi> the GENERAL HEIR, assigns his Interest to</cell>
+                     <cell>
+                        <hi>Edward Reed,</hi> assigns the Decree in trust for</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">The Respondent <hi>Richard Reed</hi> the Younger, who hath now both Interests, the Legal from <hi>Richard Reed</hi> the Elder, and the E<g ref="char:EOLhyphen"/>quitable from <hi>Edward Reed.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>William</hi> after the Assignment Marries the Petitioner <hi>Elizabeth,</hi> (who brought in Portion 1500 l. in Hand, and 500 l. to be paid in 5 years, and had in Joynture, which she enjoys 250 l. <hi>per annum</hi>) makes the Petitioner <hi>Elizabeth</hi> Executrix, and dies without Issue.</p>
+            <p>The Petitioner <hi>Elizabeth,</hi> not content with her Joynture of 250 l. <hi>per annum,</hi> claims an Interest in this Lease.</p>
+            <p>Thereupon arose cross Suits in <hi>Chancery,</hi> and it was Decreed by the late Lord Chancellor <hi>Nottingham,</hi> that the Assignment of <hi>William</hi> to the Respondent was good, and that the Petitioners should release.</p>
+            <p>Which Decree upon a Re-hearing was confirmed, and the Peti<g ref="char:EOLhyphen"/>tioners do accordingly release.</p>
+            <p>Notwithstanding all which the Petitioners do Appeal against the said Decree of 1639. made by the Lord Keeper <hi>Coventry</hi> (46 years since) as unjust, and against the second Decree made by the late Lord Chancellor, (not as unjust, but as made in pursuance of the former Decree, as it was not) and against their own Act and Deed, and a<g ref="char:EOLhyphen"/>gainst the Act and Deed of <hi>William</hi> her Husband, by which he hath barr'd himself and his Executors from having any Appeal.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
